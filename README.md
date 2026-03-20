@@ -6,4 +6,4 @@ M. Nerini and B. Clerckx, "[Analog Computing for Signal Processing and Communica
 
 ## Content of Code Package
 
-The file `main_Figi.m` reproduces Fig. *i*, for *i*= 5, 6, 7.
+The file `main_Figi.m` reproduces Fig. *i* in the paper, for *i* = 5, 6, 7.
